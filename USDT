@@ -1,0 +1,10 @@
+{
+    "name": "Tethor US..",
+    "symbol": "U SDT",
+    "type": "TRC20",
+    "decimals": 6,
+    "description": "USDT is the official stablecoin issued by Tether on the TRON network.",
+    "website": "https://tron.network/usdt",
+    "image": "https://raw.githubusercontent.com/aze0685/zhenggui/main/xin-token-logo.png",
+    "version": "1.0"
+}
